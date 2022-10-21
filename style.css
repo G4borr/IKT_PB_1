@@ -1,7 +1,70 @@
-h1{
+body{
+    background-color:rgb(215, 222, 255) ;
+}
+
+h1{ 
+    font-style: italic;
     text-align: center;
 }
 
-body{
-    background-color: ;
+.pfp{
+    border-radius: 5%;
+    width: 650px;
+    display: block;
+    margin: auto;  
+}
+
+.cc{
+    border: none;
+    background: grey;
+    padding: 12px 30px;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.mmm{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.idt{
+    font-style: italic;
+}
+
+.fels{
+    font-size: 20px;
+    font-style: italic;
+}
+
+hr{
+    opacity: 20px;
+
+}
+
+.ad{
+    font-size: 20px;
+
+
+}
+
+.pomt{
+    color: rgb(215, 222, 255) ;
+    
+}
+
+.tx{
+    font-size: 30px;
+}
+
+.tx2{
+    font-size: 20px;
+}
+
+
+
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: white;
 }
