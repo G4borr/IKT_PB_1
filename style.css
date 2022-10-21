@@ -9,7 +9,6 @@ h1{
 
 .pfp{
     border-radius: 5%;
-    width: 650px;
     display: block;
     margin: auto;  
 }
@@ -38,22 +37,6 @@ h1{
     font-style: italic;
 }
 
-hr{
-    opacity: 20px;
-
-}
-
-.ad{
-    font-size: 20px;
-
-
-}
-
-.pomt{
-    color: rgb(215, 222, 255) ;
-    
-}
-
 .tx{
     font-size: 30px;
 }
@@ -62,13 +45,8 @@ hr{
     font-size: 20px;
 }
 
-.italic{
-    font-style: italic;
-}
-
 .doki{
     border-radius: 5%;
-    width: 400px;
     display: block;
     margin: auto; 
 }
@@ -79,3 +57,18 @@ footer{
     background-color: white;
 }
 
+.csalad{
+    border-radius: 2%;
+    display: block;
+    margin: auto; 
+}
+
+.szb{
+    border-radius: 2%;
+    display: block;
+    margin: auto;  
+}
+
+hr{
+    opacity: 5%;
+}
