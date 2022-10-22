@@ -7,10 +7,8 @@ h1{
     text-align: center;
 }
 
-.pfp{
+.pbr{
     border-radius: 5%;
-    display: block;
-    margin: auto;  
 }
 
 .cc{
@@ -24,7 +22,6 @@ h1{
 
 .idt{
     font-style: italic;
-    font-style: bald;
     font-size: 30px;
 }
 
@@ -39,10 +36,11 @@ h1{
     margin-top: 10px;
 }
 
-.doki{
-    border-radius: 5%;
-    display: block;
-    margin: auto; 
+.fsm{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .tm{
@@ -50,18 +48,6 @@ h1{
     margin-bottom: 40px;
     margin-left: 40px;
     margin-right: 40px;
-}
-
-.csalad{
-    border-radius: 2%;
-    display: block;
-    margin: auto; 
-}
-
-.szb{
-    border-radius: 2%;
-    display: block;
-    margin: auto;  
 }
 
 hr{
