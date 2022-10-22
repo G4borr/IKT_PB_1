@@ -22,27 +22,21 @@ h1{
     font-weight: bold;
 }
 
-.mmm{
-    margin-left: 20px;
-    margin-right: 20px;
-}
-
 .idt{
     font-style: italic;
+    font-style: bald;
     font-size: 30px;
+}
+
+.felsc{
+    font-style: italic;
+    margin-top: 40px;
 }
 
 .fels{
     font-size: 20px;
     font-style: italic;
-}
-
-.tx{
-    font-size: 30px;
-}
-
-.tx2{
-    font-size: 20px;
+    margin-top: 10px;
 }
 
 .doki{
@@ -51,10 +45,11 @@ h1{
     margin: auto; 
 }
 
-footer{
-    text-align: center;
-    padding: 3px;
-    background-color: white;
+.tm{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 .csalad{
@@ -70,12 +65,39 @@ footer{
 }
 
 hr{
-    opacity: 5%;
+    opacity: 10%;
 }
 
-.tp{
+.tp12{
+    border-radius: 5%;
+    display: block;
+    margin: auto; 
+    width: 250px;
+}
+
+.tp35{
     border-radius: 5%;
     display: block;
     margin: auto; 
     width: 300px;
+}
+
+.tp4{
+    border-radius: 5%;
+    display: block;
+    margin: auto; 
+    width: 200px;
+}
+
+.tp6{
+    border-radius: 5%;
+    display: block;
+    margin: auto; 
+    width: 400px;
+}
+
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: white;
 }
