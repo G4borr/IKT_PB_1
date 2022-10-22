@@ -1,89 +1,82 @@
-body{
-    background-color:rgb(215, 222, 255) ;
+body {
+  background-color: rgb(215, 222, 255);
 }
 
-h1{ 
-    font-style: italic;
-    text-align: center;
+h1 {
+  font-style: italic;
+  text-align: center;
 }
 
-.pbr{
-    border-radius: 5%;
+.pbr {
+  border-radius: 5%;
 }
 
-.cc{
-    border: none;
-    background: grey;
-    padding: 12px 30px;
-    border-radius: 30px;
-    color: white;
-    font-weight: bold;
+.cc {
+  border: none;
+  background-color: rgb(215, 222, 255);
+  padding: 12px 30px;
+  border-radius: 30px;
+  font-weight: bold;
+  transition: color 300ms ease;
 }
 
-.idt{
-    font-style: italic;
-    font-size: 30px;
+.cc:hover {
+  background-color: grey;
+  color: white;
 }
 
-.felsc{
-    font-style: italic;
-    margin-top: 40px;
+.idt {
+  font-style: italic;
+  font-size: 30px;
 }
 
-.fels{
-    font-size: 20px;
-    font-style: italic;
-    margin-top: 10px;
+.felsc {
+  font-style: italic;
+  margin-top: 40px;
 }
 
-.fsm{
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
+.fels {
+  font-size: 20px;
+  font-style: italic;
+  margin-top: 10px;
 }
 
-.tm{
-    margin-top: 40px;
-    margin-bottom: 40px;
-    margin-left: 40px;
-    margin-right: 40px;
+.fsm {
+  margin: 20px;
 }
 
-hr{
-    opacity: 10%;
+.tm {
+  margin: 40px;
 }
 
-.tp12{
-    border-radius: 5%;
-    display: block;
-    margin: auto; 
-    width: 250px;
+hr {
+  opacity: 10%;
 }
 
-.tp35{
-    border-radius: 5%;
-    display: block;
-    margin: auto; 
-    width: 300px;
+.tp12 {
+  border-radius: 5%;
+  display: block;
+  margin: auto;
+  width: 250px;
 }
 
-.tp4{
-    border-radius: 5%;
-    display: block;
-    margin: auto; 
-    width: 200px;
+.tp35 {
+  border-radius: 5%;
+  display: block;
+  margin: auto;
+  width: 300px;
 }
 
-.tp6{
-    border-radius: 5%;
-    display: block;
-    margin: auto; 
-    width: 400px;
+.tp4 {
+  border-radius: 5%;
+  display: block;
+  margin: auto;
+  width: 200px;
 }
 
-footer{
-    text-align: center;
-    padding: 3px;
-    background-color: white;
+.tp6 {
+  border-radius: 5%;
+  display: block;
+  margin: auto;
+  width: 400px;
 }
