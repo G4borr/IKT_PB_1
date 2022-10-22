@@ -72,3 +72,10 @@ footer{
 hr{
     opacity: 5%;
 }
+
+.tp{
+    border-radius: 5%;
+    display: block;
+    margin: auto; 
+    width: 300px;
+}
