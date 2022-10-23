@@ -53,6 +53,10 @@ hr {
   opacity: 10%;
 }
 
+.tac {
+  text-align: center;
+}
+
 .tp12 {
   border-radius: 5%;
   display: block;
